@@ -1,5 +1,5 @@
 #
-# cristian Wed Dec 29 11:09:35 2004
+# cristian Wed Dec 29 11:09:35 1999
 # make file for testing all game stuff
 #
 
