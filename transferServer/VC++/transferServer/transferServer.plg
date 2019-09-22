@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: transferServer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB36.tmp" with contents
+[
+LIBCMT.LIB wsock32.lib msvcrt.lib libcmt.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"D:\output\server/broadcastServer.pdb" /map:"D:\output\server/broadcastServer.map" /machine:I386 /out:"D:\output\server/broadcastServer.exe" 
+"\output\server\StdAfx.obj"
+"\output\server\transferServer.obj"
+"\output\server\criticalSectionsFunctions.obj"
+"\output\server\log.obj"
+"\output\server\utilsFunctions.obj"
+"\output\server\threadFunctions.obj"
+"\output\server\cpacket.obj"
+"\output\server\csocket.obj"
+"\output\server\socketServer.obj"
+"\output\server\client.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPB36.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : warning LNK4075: ignoring /EDITANDCONTINUE due to /INCREMENTAL:NO specification
+
+
+
+<h3>Results</h3>
+broadcastServer.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
